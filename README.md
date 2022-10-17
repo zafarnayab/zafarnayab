@@ -6,9 +6,9 @@
 
 <h4 align="center"></h4>
 
-<p align="center"> <img src="https://miro.medium.com/max/1100/1*qdAW1TjCN57h1lbuuzvchg.gif" height="200px" width="300px"/> </p>
+<p align="center"> <img src="working.gif" height="auto" width="auto"/> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gargi2003" alt="gargi2003" /></a> </p> -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zafarnayab" alt="zafarnayab" /></a> </p> -->
 
  ## Know More About Me 
 
