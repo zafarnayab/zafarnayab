@@ -2,8 +2,6 @@
 <h1 align="center"> I'm Nayab</h1>
 <img src="https://komarev.com/ghpvc/?username=zafarnayab&label=Profile%20views&color=blue&style=flat" alt="zafarnayab" /> 
 
-
-
 <h4 align="center"></h4>
 
 <p align="center"> <img src="work.gif" height="auto" width="350px"/> </p>
@@ -34,9 +32,9 @@
 
 - 🔭 I’m currently working as **Project Coordinator at Codeacious Technologies Pvt. Ltd.**
 
-<!-- - 🌱 I’m currently learning **** -->
+<!-- - 🌱 I’m currently learning **** 
 
-- 💬 Ask me about **anything. I would be happy to help.**
+- 💬 Ask me about **anything. I would be happy to help.** -->
 
 - 📫 Reach me at **zafar.nayab@gmail.com**
 
@@ -58,16 +56,23 @@
 
 ## Github Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zafarnayab&" alt="zafarnayab" /></p> 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zafarnayab&show_icons=true&locale=en" alt="zafarnayab" /></p>
-
+<p align="">
+<a href="https://github.com/zafarnayab">
+   <img style="width:47.5%" align="center" src="https://github-readme-stats.vercel.app/api?username=zafarnayab&show_icons=true&theme=contrast&include_all_commits=true&count_private=true"/>
+ </a>
+ <a href="https://github.com/zafarnayab">
+   <img style="width:47.5%" align="center" width src="https://github-readme-streak-stats.herokuapp.com/?user=zafarnayab&theme=contrast" alt="zafarnayab" />
+ </a>
+ 
+ </p>
 
 <div> 
 
+<!--
 <a href="http://zafarnayab.com">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zafarnayab&repo=zafarnayab&theme=gruvbox&layout=compact">
-<!--  <img src="https://github.com/" width="200px" height="120px"> <img src="https://github.com/" width="200px" height="120px"> -->
+  <img style="width:45%" src="https://github-readme-stats.vercel.app/api/pin/?username=zafarnayab&repo=zafarnayab&theme=onedark&layout=">
+  
+  <img src="https://github.com/" width="200px" height="120px"> <img src="https://github.com/" width="200px" height="120px"> -->
 </a>
 
 </div>
