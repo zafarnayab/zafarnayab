@@ -58,10 +58,10 @@
 
 <p align="">
 <a href="https://github.com/zafarnayab">
-   <img style="width:47.5%" align="center" src="https://github-readme-stats.vercel.app/api?username=zafarnayab&show_icons=true&theme=contrast&include_all_commits=true&count_private=true"/>
+   <img style="width:45%" align="center" src="https://github-readme-stats.vercel.app/api?username=zafarnayab&show_icons=true&theme=contrast&include_all_commits=true&count_private=true"/>
  </a>
  <a href="https://github.com/zafarnayab">
-   <img style="width:47.5%" align="center" width src="https://github-readme-streak-stats.herokuapp.com/?user=zafarnayab&theme=contrast" alt="zafarnayab" />
+   <img style="width:45%" align="center" width src="https://github-readme-streak-stats.herokuapp.com/?user=zafarnayab&theme=contrast" alt="zafarnayab" />
  </a>
  
  </p>
