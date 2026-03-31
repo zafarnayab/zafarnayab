@@ -15,7 +15,7 @@
 </p>
 
 ## 📌 About Me
-🔭 Currently working as **Assistant Project Manager** at Codeacious Technologies Pvt. Ltd.  
+🔭 Currently working as **Project Manager** at Codeacious Technologies Pvt. Ltd.  
 🎯 Skilled in **Agile, Product Management, and Visual Design**  
 🌱 Currently exploring **Scrum & Advanced Project Management**  
 📫 Reach me at: **zafar.nayab@gmail.com**  
