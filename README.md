@@ -7,7 +7,7 @@
 
 <!-- Animated Tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C0FF&width=600&center=true&vCenter=true&lines=Assistant+Project+Manager+%7C+Agile+Practitioner;Workflow+Architect+%7C+UI%2FUX+Wireframer;Strategic+Thinker+%7C+Creative+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C0FF&width=600&center=true&vCenter=true&lines=Project+Manager+%7C+Agile+Practitioner;Workflow+Architect+%7C+UI%2FUX+Wireframer;Strategic+Thinker+%7C+Creative+Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
